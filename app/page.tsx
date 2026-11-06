@@ -21,7 +21,7 @@ const perfil = {
   github: "https://github.com/daniriv12835",
   linkedin: "https://www.linkedin.com/in/daniel-rivera-a7b301436",
   cv: "",
-  foto: "/foto-perfil.jpeg",
+  foto: "src=/portafolio/foto-perfil.jpeg",
 };
 
 const proyectos = [
